@@ -1,0 +1,24 @@
+champions,5,5
+champions,5,4
+champions,4,5
+Potential Loyalists,5,2
+Potential Loyalists,4,2
+Potential Loyalists,3,3
+Potential Loyalists,4,3
+Loyal Customers,5,3
+Loyal Customers,4,4
+Loyal Customers,3,5
+Loyal Customers,3,4
+Recent Customers,5,1
+Promising,4,1
+Promising,3,1
+Customers Needing Attention,3,2
+Customers Needing Attention,2,3
+Customers Needing Attention,2,2
+At Risk,2,5
+At Risk,2,4
+At Risk,1,3
+Cant Lose Them,1,5
+Cant Lose Them,1,4
+Hibernating,1,2
+Lost,1,1
